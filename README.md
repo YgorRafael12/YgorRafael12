@@ -22,5 +22,7 @@
  
  <div>
    <a href="https://www.linkedin.com/in/ygor-rafael-533bb2247/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white alt=LinkedIn">
-  <a href="YgorRafaelOficial@protonmail.com" target="_blank"> <img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white  alt="ProtonMail">
- </div>
+  <a href="YgorRafaelOficial@protonmail.com" target="_blank"> <img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" alt="ProtonMail">
+ <a href="https://www.instagram.com/zuykoihe/" target="_blank"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+ <a href="https://pt.quora.com/profile/Zuykoihe" target="_blank"> <img src="https://img.shields.io/badge/Quora-%23B92B27.svg?&style=for-the-badge&logo=Quora&logoColor=white" alt="Quora"> 
+</div>
